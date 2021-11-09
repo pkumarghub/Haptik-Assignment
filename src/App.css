@@ -1,0 +1,13 @@
+.heading {
+  text-align: center;
+}
+
+.body-div {
+  display: flex;
+}
+.vertical {
+  border-left: 6px solid black;
+  height: 400px;
+  position:absolute;
+  left: 47%;
+}

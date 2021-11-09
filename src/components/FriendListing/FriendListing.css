@@ -1,0 +1,20 @@
+.friend-list {
+    width: 47%;
+}
+.list-div {
+    border: 1px solid black;
+    width: 40%;
+    margin-left: 28%;
+}
+.list-div-heading {
+    background-color: gray;
+    padding: 7px 0px 11px 11px;
+    font-size: 23px;
+    font-weight: bold;
+}
+.friend-search-inpt {
+    width: 97%;
+    padding: 12px 0 12px 7px;
+    display: inline-block;
+    border: 0;
+}

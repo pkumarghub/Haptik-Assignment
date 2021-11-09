@@ -1,0 +1,29 @@
+.add-friend-main-div{
+    width: 47%;
+}
+.add-friend {
+    margin: auto;
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+.add-friend-inpt {
+    width: 55%;
+    padding: 12px 7px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.add-friend-btn{
+    width: 23%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 8px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
